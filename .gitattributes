@@ -5,3 +5,11 @@
 *.md text eol=lf
 *.iml text eol=lf
 
+# Forçar arquivos do Eclipse a terem LF
+*.xml text eol=lf
+*.prefs text eol=lf
+*.ini text eol=lf
+.classpath text eol=lf
+.project text eol=lf
+.settings/* text eol=lf
+
