@@ -1,5 +1,7 @@
 * text=auto
 
-# Garante que arquivos de código-fonte fiquem com LF no repositório
+# Forçar arquivos de código a terem LF
 *.java text eol=lf
 *.md text eol=lf
+*.iml text eol=lf
+
